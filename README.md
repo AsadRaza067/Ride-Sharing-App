@@ -1,6 +1,6 @@
-# Ride-Sharing-App
+# Ride Sharing App
 
-A Kotlin-based Android Ride Sharing Application that allows users to book rides, match with drivers in real-time, and track trips using GPS. The app provides a smooth and user-friendly experience for both passengers and drivers.
+A Kotlin based Android Ride Sharing Application that allows users to book rides, match with drivers in real time, and track trips using GPS. The app provides a smooth and user-friendly experience for both passengers and drivers.
 
 ---
 
