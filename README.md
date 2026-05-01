@@ -24,7 +24,6 @@ A Kotlin-based Android Ride Sharing Application that allows users to book rides,
 ---
 
 ### App Screenshots
-### 📸 App Screenshots
 
 <p align="center">
   <img src="2.png" width="230" height="480" />
